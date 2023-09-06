@@ -2,10 +2,10 @@
 
 ### Frontend
 I chose to use React to develop the front-end of the application, leveraging its ability to create interactive and responsive user interfaces. Material-UI complemented React by providing a wide range of ready-to-use components that followed the design guidelines of Material Design, making the application's interface attractive and intuitive for users.
-By implementing operations for listing, creating, updating, and deleting records, I built a data management system. This allowed users to efficiently and user-friendlyly view, add, edit, and remove information. By combining the power of React with the styling and components provided by Material-UI, we created a robust and effective user experience for the application
+By implementing operations for listing, creating, updating, and deleting records, I built a data management system. This allowed users to efficiently and user-friendly view, add, edit, and remove information. By combining the power of React with the styling and components provided by Material-UI, we created a robust and effective user experience for the application.
 
 - Run `npm install` to install all the dependencies necessary for the project.
-- To start the project, simply navigate to the root folder 'my-app' and then run the `npm start` command, which will launch the server and make the application accessible in your 
+- To start the project, simply navigate to the root folder 'my-app' and then run the `npm start` command, which will launch the server and make the application accessible.
 
 ### Backend
 
